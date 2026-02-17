@@ -22,3 +22,9 @@ git clone https://github.com/robertgiosu/atestat-quiztopia-salvarea-regatului.gi
 2. Open the project in Unity Hub
 3. Open the main scene
 4. Press **Play**
+
+**OR**
+
+1. Download the latest release from the [release page](https://github.com/robertgiosu/atestat-quiztopia-salvarea-regatului/releases)
+2. Unzip the build file
+3. Run the `Quiztopia Salvarea Regatului.exe` file
